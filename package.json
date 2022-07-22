@@ -1,0 +1,17 @@
+{
+  "name": "css-base",
+  "version": "1.0.0",
+  "description": "Based on a CSS reset from joshwcomeau.com",
+  "main": "css-base.css",
+  "style": "css-base.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmiro/css-base.git"
+  },
+  "author": "Mark Miro <contact@markmiro.com> (https://markmiro.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmiro/css-base/issues"
+  },
+  "homepage": "https://github.com/markmiro/css-base"
+}
