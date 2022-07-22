@@ -1,5 +1,5 @@
 {
-  "name": "css-base",
+  "name": "@markmiro/css-base",
   "version": "1.0.0",
   "description": "Based on a CSS reset from joshwcomeau.com",
   "main": "base.css",
