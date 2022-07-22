@@ -87,6 +87,7 @@ Mine
 ---
 */
 
+/* Dark mode */
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
@@ -94,6 +95,7 @@ Mine
   }
 }
 
+/* Links inherit text color */
 a:any-link {
   color: inherit;
 }
