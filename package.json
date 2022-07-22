@@ -1,5 +1,8 @@
 {
   "name": "@markmiro/css-base",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "Based on a CSS reset from joshwcomeau.com",
   "scripts": {
