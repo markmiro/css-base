@@ -1,5 +1,11 @@
 # css-base
 
+**NPM**
+
+```sh
+npm install --save @markmiro/css-base
+```
+
 ## What does it do?
 
 - Box sizing `border-box`
