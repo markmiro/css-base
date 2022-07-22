@@ -10,6 +10,7 @@
 - Avoid text overflows (`overflow-wrap: break-word`)
 - Dark mode
 - Links inherit text color (helps with link color in dark mode)
+- System font
 
 ## Browser support
 

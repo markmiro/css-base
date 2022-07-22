@@ -99,3 +99,10 @@ Mine
 a:any-link {
   color: inherit;
 }
+
+/* System font */
+body {
+  /* Note: not using system-ui because: https://github.com/twbs/bootstrap/pull/22377 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
