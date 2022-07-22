@@ -4,6 +4,9 @@
   "description": "Based on a CSS reset from joshwcomeau.com",
   "main": "base.css",
   "style": "base.css",
+  "files": [
+    "base.css"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/markmiro/css-base.git"
