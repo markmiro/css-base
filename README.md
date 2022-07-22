@@ -6,6 +6,30 @@
 npm install --save @markmiro/css-base
 ```
 
+**Yarn**
+
+```sh
+yarn add @markmiro/css-base
+```
+
+**HTML** (latest)
+
+```html
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/@markmiro/css-base@latest/base.css"
+/>
+```
+
+**HTML** (2.0.0)
+
+```html
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/@markmiro/css-base@2.0.0/base.css"
+/>
+```
+
 ## What does it do?
 
 - Box sizing `border-box`
